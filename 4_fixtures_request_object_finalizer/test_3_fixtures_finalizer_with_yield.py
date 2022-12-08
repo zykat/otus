@@ -9,7 +9,7 @@ def setup_function_fixture():
 
 
 @pytest.fixture(scope="module")
-def setup_function_fixture():
+def setup_module_fixture():
     print("\nHello from setup module fixture!\n")
     yield
     print("\nBye bye from setup module fixture!\n")

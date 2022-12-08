@@ -19,7 +19,7 @@ print(t[1])
 # print(len(t), t)
 
 # Can be a key
-# d = {'1': 'string', (1,2,3): 'tuple'}
-# print(d[(1,2,3)])
+d = {'1': 'string', (1,2,3): 'tuple'}
+print(d[(1,2,3)])
 
 # Unordered

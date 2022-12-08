@@ -13,7 +13,7 @@ print("l -> ", l)
 
 del l[0]
 print("l -> ", l)
-
+print('1' in l)
 print("3 in l -> ", l.count(3), "times")
 print(l.pop(), l) # index or last
 
@@ -26,6 +26,7 @@ print(l.pop(), l) # index or last
 
 # Slice
 # l = [x for x in range(50) if x % 2 == 0]
+# print(l[5:30:2])
 
 # Iterate
 # l = [1,2,3,4,5]
@@ -55,7 +56,8 @@ print(l.pop(), l) # index or last
 # print("\n")
 # # Option 2 reversed(list())
 # l = [1,2,3,4,5,6]
-# lr = reversed(l)
+# #lr = reversed(l)
+# lr = l[::-1]
 # print(l, lr)
 # print(l, list(lr))
 
