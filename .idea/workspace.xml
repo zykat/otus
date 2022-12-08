@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="23e75226-0f24-422c-a451-5bfc1657d218" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/0_pytest_intro/test_pytest_intro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_fixtures_start/test_fixtures_example_start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_fixtures_conftest/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_fixtures_conftest/test_fixtures_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_fixtures_scope_and_autouse/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_fixtures_scope_and_autouse/test_1_fixtures_scope.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_fixtures_scope_and_autouse/test_2_fixtures_autouse.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_fixtures_request_object_finalizer/test_1_fixtures_request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_fixtures_request_object_finalizer/test_2_fixtures_request_finalizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_fixtures_request_object_finalizer/test_3_fixtures_finalizer_with_yield.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_fixtures_request_object_finalizer/test_4_pass_fixture_to_fixture.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_fixtures_return_values/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_fixtures_return_values/test_fixtures_return_values.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_fixtures_parametrization/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_fixtures_parametrization/test_fixtures_parametrization.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_bonus_data_structures/1_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_bonus_data_structures/2_tuple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_bonus_data_structures/3_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_bonus_data_structures/4_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_bonus_data_structures/5_container.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/conftest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/readme.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2HcVROiEx7LaZLJZLLS3cXGP1hW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.4_dict">
+    <configuration name="1_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="otus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_bonus_data_structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_bonus_data_structures/1_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2_tuple" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="otus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_bonus_data_structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_bonus_data_structures/2_tuple.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="3_set" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="otus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_bonus_data_structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_bonus_data_structures/3_set.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4_dict" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="otus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/7_bonus_data_structures" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/7_bonus_data_structures/4_dict.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_fixtures_return_values.test_the_class2" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="otus" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_fixtures_return_values" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_parameters" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_fixtures_return_values.test_the_class2&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.pytest for test_fixtures_return_values.test_the_class2" />
+      <item itemvalue="Python.4_dict" />
+      <item itemvalue="Python.1_list" />
+      <item itemvalue="Python.2_tuple" />
+      <item itemvalue="Python.3_set" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.4_dict" />
+        <item itemvalue="Python.3_set" />
+        <item itemvalue="Python.2_tuple" />
+        <item itemvalue="Python.1_list" />
+        <item itemvalue="Python tests.pytest for test_fixtures_return_values.test_the_class2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="23e75226-0f24-422c-a451-5bfc1657d218" name="Changes" comment="" />
+      <created>1668584349587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668584349587</updated>
+    </task>
+    <servers />
+  </component>
+</project>
