@@ -1,4 +1,5 @@
 # CRUD (create, remove, update, delete)
+# список
 l = []
 print("Type: ", type(l))
 

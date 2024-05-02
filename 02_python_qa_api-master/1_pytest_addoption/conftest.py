@@ -1,6 +1,5 @@
 import pytest
 
-
 def pytest_addoption(parser):
     parser.addoption(
         "--url",
@@ -8,7 +7,6 @@ def pytest_addoption(parser):
         default="https://ya.ru",
         help="This is request url"
     )
-
 
 @pytest.fixture
 def url_param(request):

@@ -1,4 +1,5 @@
 # CRUD (create, remove, update, delete)
+# множества
 
 s = set()
 

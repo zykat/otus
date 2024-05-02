@@ -1,4 +1,5 @@
 # CRUD (create, remove, update, delete)
+# словарь
 
 d = {}
 d['key'] = 'value'
