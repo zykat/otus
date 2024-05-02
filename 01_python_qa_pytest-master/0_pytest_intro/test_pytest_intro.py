@@ -4,7 +4,7 @@ def test_one():
 
 
 # Так тоже можно, но не нужно и с модулем не заработает
-def testtwo():
+def test_two():
     pass
 
 
@@ -14,7 +14,7 @@ class TestClass:
     def test_one(self):
         pass
 
-    def testtwo(self):
+    def test_two(self):
         pass
 
 # Запуск отдельных файлов, функций, классов
@@ -25,7 +25,7 @@ class TestClass:
 
 # -v - visible, detail output
 # -q - short, only result
-# -s - display 'print'
+# -s - display 'print
 # -x / --maxfail=n - stop test after 1st or n fail
 # --collect-only - collect test info without testing
 # --lf - start last fail tests
